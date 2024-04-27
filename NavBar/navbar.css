@@ -24,23 +24,27 @@ nav{
         
     }
 
-    > div > a{
-        background-color:crimson ;
-        color: white;
-        padding: 3px;
-        border-radius: 5px;
-        text-decoration: none;
-        margin: 5px;
-        text-align: center;
-        transition: 0.2s;
-        order: 2;
-        
-    }
+    > div{
 
-    > div > a:hover{
-        background-color:  red;
-        text-decoration: underline;
-        padding: 3px 6px;
+        display: flex;
+
+        > a{
+            background-color:crimson ;
+            color: white;
+            padding: 3px;
+            border-radius: 5px;
+            text-decoration: none;
+            margin: 5px;
+            text-align: center;
+            transition: 0.2s;
+            order: 2;
+        }
+
+        > a:hover{
+            background-color:  red;
+            text-decoration: underline;
+            padding: 3px 6px;
+        }
     }
 }
 
@@ -52,4 +56,41 @@ main{
     color: red;
     margin: 50px;
     padding: 10px;
+}
+.dropdown{
+    background-color:crimson ;
+    color: white;
+    padding: 3px;
+    border-radius: 5px;
+    text-decoration: none;
+    margin: 5px;
+    text-align: center;
+    transition: 0.2s;
+    order: 2;
+    width: 30px;
+    justify-content: center;
+    margin-right: 30px;
+
+
+
+    > div{
+        display: none;
+        position:absolute;
+        background-color: black;
+        border: 2px solid crimson;
+        flex-direction: column;
+        margin-top: 28px;
+
+        > a{
+            text-decoration:none;
+            color: white;
+        }
+
+        > a:hover{
+            color: crimson;
+        }
+    }
+}
+.dropdown:hover > div{
+    display: flex;
 }
