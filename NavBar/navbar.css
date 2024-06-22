@@ -58,6 +58,7 @@ main{
     padding: 10px;
 }
 .dropdown{
+    display: none;
     background-color:crimson ;
     color: white;
     padding: 3px;
@@ -94,3 +95,24 @@ main{
 .dropdown:hover > div{
     display: flex;
 }
+
+@media (max-width: 700px){
+
+    nav > div > a{
+        display: none;
+    }
+
+    .dropdown{
+        display: flex;
+    }
+}
+
+@media (max-width: 420px){
+
+    nav > input{
+        display: none;
+    }
+
+}
+
+        
