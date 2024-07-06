@@ -1,0 +1,14 @@
+NOME: Henrique Moreira Cardoso
+GITHUB: Rick5nov
+
+NOME DO SITE: Web Navigator
+
+DESCRIÇÃO DO SITE: Um site que facilitará a navegação entre jogos hospedados em outros sites, como termo, contexto, gamedle e entre outros. Será como um site Home, que dentro dele terá o link dos outros sites.
+ 
+PÁGINAS:
+
+-index.html: Página inicial com um texto introdutório e botões para levar ás outras páginas do site.
+
+-jogos diários.html: Página com cards que levará para diferentes sites com jogos diários.
+
+-sites curiosos.html: Página com cards que levará para diferentes sites interessantes/de passa tempo.
