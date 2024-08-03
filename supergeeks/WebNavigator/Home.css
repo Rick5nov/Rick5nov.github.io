@@ -1,11 +1,11 @@
 body{
     margin: 0%;
-    background-color:ghostwhite ;
+    background-color:rgb(165, 164, 164) ;
 }
 
 nav{
     display: flex;
-    background-color:dimgrey;
+    background-color:rgb(28, 28, 32);
     justify-content: center;
 
 
@@ -36,11 +36,11 @@ div{
 
     >a{
         display: flex;
-        background-color: red;
-        border-radius: 150px;
+        background-color: white;
+        border-radius: 15px;
         color: black;
-        height: 100px;
-        width: 250px;
+        height: 80px;
+        width: 200px;
         text-decoration: none;
         justify-content: center;
         align-items: center;
@@ -48,8 +48,7 @@ div{
 }
 
 div > a:hover{
-   background-color: yellow;
-   width: 280px;
+   width: 220px;
    transition: 0.5s;
 
 }
