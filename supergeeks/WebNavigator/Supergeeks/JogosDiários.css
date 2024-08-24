@@ -1,0 +1,15 @@
+body{
+    margin: 0%;
+}
+
+nav{
+    display: flex;
+    background-color:rgb(28, 28, 32);
+    justify-content: center;
+
+
+    >img{
+        height: 70px;
+        width: 300px;
+    }
+}
