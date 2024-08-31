@@ -6,10 +6,41 @@ nav{
     display: flex;
     background-color:rgb(28, 28, 32);
     justify-content: center;
+    margin-bottom: 50px;
 
-
-    >img{
-        height: 70px;
+    >a{
+        background-image: url(https://www.artsector.com.br/wp-content/uploads/criacao-de-logotipo-1.jpg);
+        background-size: cover;
+        background-position: center;
+        height: 80px;
         width: 300px;
     }
+}
+
+div{
+    display: flex;
+    height: 100%;
+    gap: 50px;
+    flex-wrap: wrap;
+    justify-content: center;
+
+    >a{
+        display: flex;
+        border: black solid 5px;
+        border-radius: 30px;
+        width: 250px;
+        height: 100px;
+        justify-content:center;
+        align-items:center;
+        text-decoration: none;
+        font-size: 40px;
+        color: white;
+
+    }
+}
+
+#Termo{
+    background-size: cover;
+    background-position: center;
+    background-image: url(https://uploads.jovemnerd.com.br/wp-content/uploads/2022/01/termo-jogo-wordle-versao-portugues.jpg);
 }
