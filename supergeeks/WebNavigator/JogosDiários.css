@@ -1,6 +1,7 @@
 body{
     margin: 0%;
     background-color:rgb(78, 78, 78);
+    zoom: 75%;
 }
 
 nav{
@@ -8,7 +9,6 @@ nav{
     background-color:black;
     justify-content: center;
     height: 90px;
-    margin-bottom: ;
 
     >a{
         background-image: url('imagens/Logo\ white.png');
@@ -21,7 +21,7 @@ nav{
 
 h1{
     color: white;
-    margin-left: 60px;
+    margin-left: 25px;
 }
 
 div{
@@ -62,4 +62,38 @@ div{
     background-position: top;
     background-size: 550px;
     background-image:url('imagens/Artigo.png')
+}
+#Desafio-wordle{
+    background-size: cover;
+    background-position: center;
+    background-image: url('imagens/Desafio\ wordle.jpg');
+}
+#Conexo{
+    background-size: cover;
+    background-position: center;
+    background-size: 250px;
+    background-position: top;
+    background-image: url('imagens/Conexo.png');
+}
+#Spelling-bee{
+    background-size: cover;
+    background-position: center;
+    background-image: url('imagens/Spelling-bee.png');
+}
+#GeoGuessr{
+    background-size: cover;
+    background-position: center;
+    background-position:bottom;
+    background-image: url('imagens/GeoGuessr.webp');
+}
+#Globle-game{
+    background-size: cover;
+    background-position: center;
+    background-image: url('imagens/Globle.webp');
+}
+#Flagle{
+    background-size: cover;
+    background-position: center;
+    background-size: 300px;
+    background-image: url('imagens/Flagle.jpg');
 }
