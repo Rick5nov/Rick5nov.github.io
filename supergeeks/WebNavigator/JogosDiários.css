@@ -1,7 +1,6 @@
 body{
     margin: 0%;
     background-color:rgb(78, 78, 78);
-    zoom: 75%;
 }
 
 nav{
@@ -9,6 +8,7 @@ nav{
     background-color:black;
     justify-content: center;
     height: 90px;
+    margin-bottom: 50px;
 
     >a{
         background-image: url('imagens/Logo\ white.png');
@@ -21,7 +21,7 @@ nav{
 
 h1{
     color: white;
-    margin-left: 25px;
+    margin-left: 60px;
 }
 
 div{
@@ -96,4 +96,55 @@ div{
     background-position: center;
     background-size: 300px;
     background-image: url('imagens/Flagle.jpg');
+}
+#Travle{
+    background-size: cover;
+    background-position: center;
+    background-size: 225px;
+    background-position:top;
+    background-image: url('imagens/Travle.png')
+}
+#Contryle{
+    background-size: cover;
+    background-position: center;
+    background-image: url('imagens/Countryle.png')
+}
+#Geogrid{
+    background-size: cover;
+    background-position: center;
+    background-image: url('imagens/Geogrid.png')
+}
+#Monkepo{
+    background-size: cover;
+    background-position: center;
+    background-image: url('imagens/Monkepo.png')
+}
+#Framed{
+    background-size: cover;
+    background-position: center;
+    background-position: top;
+    background-image: url('imagens/Framed.png')
+}
+#Dungleon{
+    background-size: cover;
+    background-position: center;
+    background-position: top;
+    background-image: url('imagens/Dungleon.png')
+}
+#Gamedle{
+    background-size: cover;
+    background-position: center;
+    background-position: top;
+    background-image: url('imagens/Gamedle.png')
+}
+#Musicle{
+    background-size: cover;
+    background-position: center;
+    background-image: url('imagens/Musicle.png')
+}
+#Nerdle{
+    background-size: cover;
+    background-position: center;
+    background-position: bottom;
+    background-image: url('imagens/Nerdle.png')
 }
