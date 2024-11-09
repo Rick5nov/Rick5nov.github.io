@@ -1,0 +1,32 @@
+body{
+    margin: 0%;
+    background-color:lightgray;
+}
+
+nav{
+    display: flex;
+    background-color:rgb(0, 0, 0);
+    justify-content: center;
+    align-items: center;
+    height: 90px;
+
+    #logo{
+        background-image: url('imagens/Logo white.png');
+        background-size: cover;
+        background-position: center;
+        height: 80px;
+        width: 310px;
+        position: fixed;
+    }
+    
+    #info{
+        border: red 20px solid;
+        margin-left: 1800px;
+    }
+}
+div{
+    justify-self: center;
+    background-color: white;
+    width: 700px;
+    height: 855px;
+}

@@ -11,14 +11,22 @@ nav{
     align-items: center;
     height: 90px;
 
-    >a{
+    #logo{
         background-image: url('imagens/Logo white.png');
         background-size: cover;
         background-position: center;
         height: 80px;
         width: 310px;
+        position: fixed;
+    }
+    
+    #info{
+        border: red 20px solid;
+        margin-left: 1800px;
     }
 }
+
+
 
 main{
     display: flex;
