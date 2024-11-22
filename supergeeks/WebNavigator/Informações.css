@@ -1,6 +1,9 @@
 body{
     margin: 0%;
     background-color:lightgray;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 nav{
@@ -9,6 +12,8 @@ nav{
     justify-content: center;
     align-items: center;
     height: 90px;
+    width: 100%;
+    position:relative;
 
     #logo{
         background-image: url('imagens/Logo white.png');
@@ -21,12 +26,71 @@ nav{
     
     #info{
         border: red 20px solid;
-        margin-left: 1800px;
+        margin-left: 95%;
     }
 }
+
 div{
-    justify-self: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     background-color: white;
-    width: 700px;
-    height: 855px;
+    width: 745px;
+    height: 852px;
+
+    h1{
+        font-size: 40px;
+    }
+
+    #imagem{
+        width: 450px;
+        height: 125px;
+    }
+
+    p{
+        font-size: 28px;
+        text-align: center;
+    }
+
+    >div{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: start;
+
+        p{
+            background-color:black;
+            color: white;
+        }
+
+        h1{
+            font-size: 34px;
+        }
+
+        .dropdown:hover .dropdown-inside{
+            display:flex;
+        }
+
+        >div{
+            display: flex;
+            height: 100%;
+
+            >div{
+                display: inline-block;
+                height: 30px;
+                width: min-content;
+            }
+        }
+    }
+}
+
+.dropdown-inside{
+    display: none;
+    position: absolute;
+    flex-direction: column;
+    height:30px;
+
+    > p{
+        display: flex;
+    }
 }
