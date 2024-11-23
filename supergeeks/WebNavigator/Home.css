@@ -21,8 +21,11 @@ nav{
     }
     
     #info{
-        border: red 20px solid;
         margin-left: 1800px;
+        text-decoration: none;
+        font-size: 48px;
+        color: white;
+
     }
 }
 

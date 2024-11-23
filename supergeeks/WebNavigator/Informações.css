@@ -75,13 +75,17 @@ div{
             display: flex;
             height: 100%;
 
-            >div{
-                display: inline-block;
-                height: 30px;
-                width: min-content;
+
             }
         }
     }
+
+.dropdown{
+        display: flex;
+        flex-direction: column;
+        height: 30px;
+        width: min-content;
+        margin-top: 30px;
 }
 
 .dropdown-inside{
@@ -89,8 +93,6 @@ div{
     position: absolute;
     flex-direction: column;
     height:30px;
-
-    > p{
-        display: flex;
-    }
+    width: min-content;
+    margin-top: 60px;
 }
