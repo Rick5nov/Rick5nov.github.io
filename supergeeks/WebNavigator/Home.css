@@ -21,11 +21,11 @@ nav{
     }
     
     #info{
-        margin-left: 1800px;
-        text-decoration: none;
-        font-size: 48px;
-        color: white;
-
+        margin-left: 95%;
+        background-size: cover;
+        background-image: url('imagens/Info\ Black.png');
+        height: 50px;
+        width: 50px;
     }
 }
 

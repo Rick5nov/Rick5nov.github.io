@@ -16,6 +16,15 @@ nav{
         background-position: center;
         height: 80px;
         width: 310px;
+        position: fixed;
+    }
+
+    #info{
+        margin-left: 95%;
+        background-size: cover;
+        background-image: url('imagens/Info\ Black.png');
+        height: 50px;
+        width: 50px;
     }
 }
 
