@@ -11,7 +11,7 @@ nav{
     height: 90px;
 
     >a{
-        background-image: url('imagens/Logo\ white.png');
+        background-image: url('imagens/Icones_site/Logo white.png');
         background-size: cover;
         background-position: center;
         height: 80px;
@@ -22,7 +22,7 @@ nav{
     #info{
         margin-left: 95%;
         background-size: cover;
-        background-image: url('imagens/Info\ Black.png');
+        background-image: url('imagens/Icones_site/Info Black.png');
         height: 50px;
         width: 50px;
     }
@@ -36,7 +36,7 @@ h1{
 
 div{
     display: flex;
-    gap: 30px;
+    gap: 37px;
     flex-wrap: wrap;
     justify-content: center;
 
@@ -64,104 +64,104 @@ div>a:hover{
 #Termo{
     background-size: cover;
     background-position: center;
-    background-image: url('imagens/termo.jpg');
+    background-image: url('imagens/Jogos_diários/termo.jpg');
 }
 #Contexto{
     background-size: cover;
     background-position:top;
     background-size:500px;
-    background-image: url('imagens/contexto.webp');
+    background-image: url('imagens/Jogos_diários/contexto.webp');
 }
 #Artigo{
     background-size: cover;
     background-position: top;
     background-size: 550px;
-    background-image:url('imagens/Artigo.png')
+    background-image:url('imagens/Jogos_diários/Artigo.png')
 }
 #Desafio-wordle{
     background-size: cover;
     background-position: center;
-    background-image: url('imagens/Desafio\ wordle.jpg');
+    background-image: url('imagens/Jogos_diários/Desafio wordle.jpg');
 }
 #Conexo{
     background-size: cover;
     background-position: center;
     background-size: 250px;
     background-position: top;
-    background-image: url('imagens/Conexo.png');
+    background-image: url('imagens/Jogos_diários/Conexo.png');
 }
 #Spelling-bee{
     background-size: cover;
     background-position: center;
-    background-image: url('imagens/Spelling-bee.png');
+    background-image: url('imagens/Jogos_diários/Spelling-bee.png');
 }
 #GeoGuessr{
     background-size: cover;
     background-position: center;
     background-position:bottom;
-    background-image: url('imagens/GeoGuessr.webp');
+    background-image: url('imagens/Jogos_diários/GeoGuessr.webp');
 }
 #Globle-game{
     background-size: cover;
     background-position: center;
-    background-image: url('imagens/Globle.webp');
+    background-image: url('imagens/Jogos_diários/Globle.webp');
 }
 #Flagle{
     background-size: cover;
     background-position: center;
     background-size: 300px;
-    background-image: url('imagens/Flagle.jpg');
+    background-image: url('imagens/Jogos_diários/Flagle.jpg');
 }
 #Travle{
     background-size: cover;
     background-position: center;
     background-size: 225px;
     background-position:top;
-    background-image: url('imagens/Travle.png')
+    background-image: url('imagens/Jogos_diários/Travle.png')
 }
 #Contryle{
     background-size: cover;
     background-position: center;
-    background-image: url('imagens/Countryle.png')
+    background-image: url('imagens/Jogos_diários/Countryle.png')
 }
 #Geogrid{
     background-size: cover;
     background-position: center;
-    background-image: url('imagens/Geogrid.png')
+    background-image: url('imagens/Jogos_diários/Geogrid.png')
 }
 #Monkepo{
     background-size: cover;
     background-position: center;
-    background-image: url('imagens/Monkepo.png')
+    background-image: url('imagens/Jogos_diários/Monkepo.png')
 }
 #Framed{
     background-size: cover;
     background-position: center;
     background-position: top;
-    background-image: url('imagens/Framed.png')
+    background-image: url('imagens/Jogos_diários/Framed.png')
 }
 #Dungleon{
     background-size: cover;
     background-position: center;
     background-position: top;
-    background-image: url('imagens/Dungleon.png')
+    background-image: url('imagens/Jogos_diários/Dungleon.png')
 }
 #Gamedle{
     background-size: cover;
     background-position: center;
     background-position: top;
-    background-image: url('imagens/Gamedle.png')
+    background-image: url('imagens/Jogos_diários/Gamedle.png')
 }
 #Musicle{
     background-size: cover;
     background-position: center;
-    background-image: url('imagens/Musicle.png')
+    background-image: url('imagens/Jogos_diários/Musicle.png')
 }
 #Nerdle{
     background-size: cover;
     background-position: center;
     background-position: bottom;
-    background-image: url('imagens/Nerdle.png')
+    background-image: url('imagens/Jogos_diários/Nerdle.png')
 }
 
 @media(max-width: 1500px){

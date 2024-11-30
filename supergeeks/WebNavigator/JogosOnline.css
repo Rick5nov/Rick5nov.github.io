@@ -11,7 +11,7 @@ nav{
     height: 90px;
 
     >a{
-        background-image: url('imagens/Logo\ white.png');
+        background-image: url('imagens/Icones_site/Logo white.png');
         background-size: cover;
         background-position: center;
         height: 80px;
@@ -22,7 +22,7 @@ nav{
     #info{
         margin-left: 95%;
         background-size: cover;
-        background-image: url('imagens/Info\ Black.png');
+        background-image: url('imagens/Icones_site/Info Black.png');
         height: 50px;
         width: 50px;
     }
@@ -57,4 +57,10 @@ div{
 
 div>a:hover{
     scale: 1.1; 
+}
+
+#Mope.io{
+    background-size: cover;
+    background-position: center;
+    background-image: url('imagens/Jogos_online/Mope.io.png');
 }
