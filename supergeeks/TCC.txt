@@ -12,3 +12,15 @@ PÁGINAS:
 -jogos diários.html: Página com cards que levará para diferentes sites com jogos diários.
 
 -sites curiosos.html: Página com cards que levará para diferentes sites interessantes/de passa tempo.
+
+OQ FALAR NA APRESENTAÇÃO?
+
+- se apresentar (nome e idade)
+- contar pq escolheu aprender a programar
+- explicar a escolha e o motivo do site
+- apresentar o site, acessar as paginas
+- mostrar um pouco do código
+- comentar a parte q achou mais difícil de fazer
+- comentar a parte q achou mais legal de fazer
+
+DURAÇÃO MÉDIA: 5min
