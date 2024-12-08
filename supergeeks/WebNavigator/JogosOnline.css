@@ -59,8 +59,93 @@ div>a:hover{
     scale: 1.1; 
 }
 
-#Mope.io{
+#Mope{
     background-size: cover;
     background-position: center;
     background-image: url('imagens/Jogos_online/Mope.io.png');
+}
+#Deeeep{
+    background-size: cover;
+    background-position: center;
+    background-image:url(imagens/Jogos_online/Deeeep.io.png)
+}
+#Diep{
+    background-size: cover;
+    background-position: center;
+    background-image:url(imagens/Jogos_online/Diep.io.webp)
+}
+#Gats{
+    background-size: cover;
+    background-position: center;
+    background-image:url(imagens/Jogos_online/Gats.io.jpg)
+}
+#Zombs{
+    background-size: cover;
+    background-position: center;
+    background-image:url(imagens/Jogos_online/Zombs.io.jpg)
+}
+#Surviv{
+    background-size: cover;
+    background-position: center;
+    background-image:url(imagens/Jogos_online/Surviv.io.png)
+}
+#Agario{
+    background-size: cover;
+    background-position: center;
+    background-image:url(imagens/Jogos_online/Agario.png)
+}
+#Krunker{
+    background-size: cover;
+    background-position: center;
+    background-image:url(imagens/Jogos_online/Krunker.webp)
+}
+#Slither{
+    background-size: cover;
+    background-position: center;
+    background-image:url(imagens/Jogos_online/Slither.png)
+}
+#Paper2{
+    background-size: cover;
+    background-position: top;
+    background-image:url(imagens/Jogos_online/Paper2.jpg)
+}
+#Splix{
+    background-size: cover;
+    background-position: center;
+    background-image:url(imagens/Jogos_online/Splix.png)
+}
+#Hole{
+    background-size: cover;
+    background-position: center;
+    background-image:url(imagens/Jogos_online/Hole.io.jpg)
+}
+#Akinator{
+    background-size: cover;
+    background-position: center;
+    background-image:url(imagens/Jogos_online/Akinator.png)
+}
+#Hordes{
+    background-size: cover;
+    background-position: center;
+    background-image:url(imagens/Jogos_online/Hordes.jpg)
+}
+#Pokemon-showdown{
+    background-size: cover;
+    background-position: center;
+    background-image:url(imagens/Jogos_online/Pokemon-showdown.jpg)
+}
+#Pokerogue{
+    background-size: cover;
+    background-position: center;
+    background-image:url(imagens/Jogos_online/Pokerogue.webp)
+}
+#Gartic{
+    background-size: cover;
+    background-position: center;
+    background-image:url(imagens/Jogos_online/Gartic.png)
+}
+#Happy-wheels{
+    background-size: cover;
+    background-position: center;
+    background-image:url(imagens/Jogos_online/Happy\ wheels.jpg)
 }
